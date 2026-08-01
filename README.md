@@ -25,7 +25,7 @@ EU Blue Card eligible · Available in 90 days · English fluent · German A1
 |------|-----------|
 | [wallet-transfer-event-processing](https://github.com/subramanians29/wallet-transfer-event-processing) | Event-driven fintech backend — Transactional Outbox, Optimistic Locking, Idempotency via Redis, Kafka, DDD |
 | [tracker](https://github.com/subramanians29/tracker) | Logistics parcel tracking API — RabbitMQ + Kafka, JWT auth, MongoDB, Docker |
-| [rag](https://github.com/subramanians29/rag) | RAG API in Java — LangChain4j, pgvector, local ONNX embeddings, Spring Boot |
+| [flow-tenant](https://github.com/subramanians29/flow-tenant) | Orchestrated SAGA with retry, idempotency, and outbox pattern - Kotlin, Spring Boot 4, Java 21 virtual threads |
 
 ---
 
