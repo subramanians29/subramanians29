@@ -1,9 +1,9 @@
-## Subramanian S — Senior Java Backend Engineer
+## Subramanian S — Senior Backend Engineer
 
-Backend engineer with 4+ years building production microservices on Spring Boot and AWS.
+Backend engineer approaching 5 years building production microservices on Spring Boot and AWS.
 Currently focused on distributed systems, event-driven architecture, and cloud-native backends.
 
-**Open to Senior Backend / Platform roles in Berlin, Munich, or Amsterdam.**
+**Open to Senior Backend / Platform roles in Germany.**
 EU Blue Card eligible · Available in 90 days · English fluent · German A1
 
 ---
