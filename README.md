@@ -1,6 +1,6 @@
 ## Subramanian S — Senior Backend Engineer
 
-Backend engineer approaching 5 years building production microservices on Spring Boot and AWS.
+Backend engineer approaching 5 YOE building production microservices on Spring Boot and AWS.
 Currently focused on distributed systems, event-driven architecture, and cloud-native backends.
 
 **Open to Senior Backend / Platform roles in Germany.**
