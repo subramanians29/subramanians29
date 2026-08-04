@@ -12,7 +12,7 @@ EU Blue Card eligible · Available in 90 days · English fluent · German A1
 
 **Core:** Java 17/21 · Spring Boot 3.x · Spring Data JPA · Hibernate  
 **Messaging:** Kafka · RabbitMQ  
-**Data:** PostgreSQL · Elasticsearch · Redis  
+**Data:** Oracle · PostgreSQL · Elasticsearch · Redis · MongoDB
 **Infra:** Docker · Kubernetes · AWS (ECS, EC2, RDS) · GitLab CI/CD  
 **Observability:** Prometheus · Structured Logging · Distributed Tracing  
 **Patterns:** Microservices · Event-driven · DDD · Transactional Outbox · Idempotency  
